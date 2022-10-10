@@ -1,0 +1,215 @@
+body {
+  height: 5000px;
+}
+.left {
+  width: 50%;
+  margin: 20px;
+  height: 350px;
+  padding-right: 50px;
+  padding-left:50px;
+  position: relative;
+  background-color: rgb(49, 49, 49);
+  color:white;
+  text-align: right;
+  margin-right: 25px;
+  margin-left: 25px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+}
+.right {
+  width: 50%;
+  margin:20px;
+  height:350px;
+  padding-right: 50px;
+  padding-left:50px;
+  background-color: rgb(49, 49, 49);
+  color:white;
+  text-align: right;
+  margin-right: 25px;
+  margin-left: 25px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+}
+.center {
+  width: 50%;
+  margin:20px;
+  height:350px;
+  padding-right: 50px;
+  padding-left:50px;
+  background-color: rgb(49, 49, 49);
+  color:white;
+  text-align: right;
+  margin-right: 25px;
+  margin-left: 25px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+}
+.relative {
+  background-color: white;
+  height: 250px;
+  padding: 30px;
+  margin: 10px;
+  display: flex;
+  position: relative;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  top: 200px;
+}
+.relative3 {
+  background-color: rgb(49, 49, 49);
+  color:white;
+  height: 250px;
+  width: 1400px;
+  padding: 0px;
+  padding-right: 150px;
+  padding-left:150px;
+  margin: -10px;
+  display: flex;
+  position: relative;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  top: 200px;
+}
+.relative3a {
+  width: 50%;
+  margin: 20px;
+  height: 350px;
+  padding-right: 50px;
+  padding-left:50px;
+  position: relative;
+  background-color: rgb(49, 49, 49);
+  color:white;
+  text-align: left;
+  margin-right: 25px;
+  margin-left: 25px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+}
+.fixed {
+  height: 125px;
+  width: 1600px;
+  background-color: rgb(95, 72, 84);
+  color:white;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+.relative2 {
+  background-color: rgb(49, 49, 49);
+  color:white;
+  height: 25px;
+  padding: 30px;
+  margin: 5px;
+  display: flex;
+  position: relative;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  top: 300px;
+}
+.profile {
+  display: block;
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: auto;
+ }
+ .logo {
+  display: inline;
+  margin-top: 600;
+  margin-left: 50px;
+  margin-right: auto;
+ }
+
+
+.buttona {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  position: fixed;
+  left: 300px;
+  top: 30px;
+}
+.buttona:hover {background-color: #3e8e41}
+
+.buttona:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.buttonb {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  position: fixed;
+  left: 450px;
+  top: 30px;
+}
+.buttonb:hover {background-color: #3e8e41}
+
+.buttonb:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.buttonc {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  position: fixed;
+  left: 1400px;
+  top: 30px;
+}
+.buttonc:hover {background-color: #3e8e41}
+
+.buttonc:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.buttond {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  position: absolute;
+  top: 10px;
+}
+.buttond:hover {background-color: #3e8e41}
+
+.buttond:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
