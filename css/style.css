@@ -126,7 +126,7 @@ body {
   text-decoration: none;
   outline: none;
   color: #fff;
-  background-color: #4CAF50;
+  background-color: #DE217C;
   border: none;
   border-radius: 15px;
   box-shadow: 0 9px #999;
@@ -134,10 +134,10 @@ body {
   left: 300px;
   top: 30px;
 }
-.buttona:hover {background-color: #3e8e41}
+.buttona:hover {background-color: #2B4FFF}
 
 .buttona:active {
-  background-color: #3e8e41;
+  background-color: #DE217C;
   box-shadow: 0 5px #666;
   transform: translateY(4px);
 }
@@ -151,7 +151,7 @@ body {
   text-decoration: none;
   outline: none;
   color: #fff;
-  background-color: #4CAF50;
+  background-color: #DE217C;
   border: none;
   border-radius: 15px;
   box-shadow: 0 9px #999;
@@ -159,10 +159,10 @@ body {
   left: 450px;
   top: 30px;
 }
-.buttonb:hover {background-color: #3e8e41}
+.buttonb:hover {background-color: #2B4FFF}
 
 .buttonb:active {
-  background-color: #3e8e41;
+  background-color: #DE217C;
   box-shadow: 0 5px #666;
   transform: translateY(4px);
 }
@@ -175,18 +175,18 @@ body {
   text-decoration: none;
   outline: none;
   color: #fff;
-  background-color: #4CAF50;
+  background-color: #DE217C;
   border: none;
   border-radius: 15px;
   box-shadow: 0 9px #999;
   position: fixed;
-  left: 1400px;
+  left: 1200px;
   top: 30px;
 }
-.buttonc:hover {background-color: #3e8e41}
+.buttonc:hover {background-color: #2B4FFF}
 
 .buttonc:active {
-  background-color: #3e8e41;
+  background-color: #DE217C;
   box-shadow: 0 5px #666;
   transform: translateY(4px);
 }
@@ -199,14 +199,14 @@ body {
   text-decoration: none;
   outline: none;
   color: #fff;
-  background-color: #4CAF50;
+  background-color: #DE217C;
   border: none;
   border-radius: 15px;
   box-shadow: 0 9px #999;
   position: absolute;
   top: 10px;
 }
-.buttond:hover {background-color: #3e8e41}
+.buttond:hover {background-color: #2B4FFF}
 
 .buttond:active {
   background-color: #3e8e41;
